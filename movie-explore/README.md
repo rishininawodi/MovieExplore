@@ -27,11 +27,6 @@ Movie Explorer is a React-based web application designed to help users discover 
 ## Run the Web App
 
 1. Clone the repository:
-
-    ```bash
  https://github.com/rishininawodi/MovieExplore.git
-    ```
-
+    
 2. Navigate into the project directory:
-
-    ```bash
