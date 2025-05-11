@@ -22,14 +22,14 @@ Movie Explorer is a React-based web application designed to help users discover 
 - **TMDb API**: For fetching movie data and trailers.
 
 ## Deployment
-[Movie Explorer - Live Demo](https://your-live-demo-link.com)
+
 
 ## Run the Web App
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/kasunUdayanga/Movie-Explorer.git
+ https://github.com/rishininawodi/MovieExplore.git
     ```
 
 2. Navigate into the project directory:
